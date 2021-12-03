@@ -1,0 +1,76 @@
+{
+	"PrimaryDetails": {
+		"AssetTitle": "Frontline Worker Quick Identity",
+		"AssetId": "114",
+		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=38&comments=false",
+		"AssetType": "IPPackage",
+		"Description": "A Azure Webapplication-based Identity Solution to support the creation of Identities needed specifically for Frontline Workers",
+		"Products": [
+			"Azure",
+			"Azure Active Directory",
+			"Microsoft 365",
+			"Microsoft Teams"
+		],
+		"Scenarios": [
+			"Customer value proposition",
+			"Presales or delivery IP",
+			"Process Improvement",
+			"Frontline Empowerment"
+		],
+		"Tags": [
+			"Frontline Worker",
+			"Identity Management"
+		],
+		"AssetVersion": "1",
+		"AssetContributors": [
+			"v-SushantPandey"
+		],
+		"AssetOwner": [
+			"v-EduardRalph"
+		],
+		"RegisteredBy": "v-EduardRalph",
+		"RegisteredDate": "10-21-2021",
+		"Status": "Active"
+	},
+	"IPDetails": {
+		"DeliveryProductID": "P-MAD-M365",
+		"DomainServiceline": "ML",
+		"IPPublishState": "Draft",
+		"Enablers": [
+			{
+				"Set": "Project1",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/IBIS/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			},
+			{
+				"Set": "Project2",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/Demo/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/Dev/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			}
+		]
+	}
+}

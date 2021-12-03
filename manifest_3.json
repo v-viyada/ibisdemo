@@ -1,0 +1,71 @@
+{
+	"PrimaryDetails": {
+		"AssetTitle": "Azure Cloud Foundation - ADO backlog",
+		"AssetId": "113",
+		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=40&comments=false",
+		"AssetType": "IPComponent",
+		"Description": "This is delivery accelerator that helps in creating a backlog of work to be completed for this project",
+		"Products": [
+			"Azure",
+			"Azure Compute"
+		],
+		"Scenarios": [
+			"Cloud Foundation"
+		],
+		"Tags": [
+			"Cloud Foundation",
+			"ACF",
+			"enterprise scale landing zone",
+			"cloud foundation"
+		],
+		"AssetVersion": "1",
+		"AssetContributors": [ "v-MukundBilurkar" ],
+		"AssetOwner": [
+			"v-MukundBilurkar"
+		],
+		"RegisteredBy": "v-MukundBilurkar",
+		"RegisteredDate": "11-12-2021",
+		"Status": "Active"
+	},
+	"IPDetails": {
+		"DeliveryProductID": "P-MAD-M365",
+		"DomainServiceline": "ML",
+		"IPPublishState": "Draft",
+		"Enablers": [
+			{
+				"Set": "Project1",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/IBIS/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/Test/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			},
+			{
+				"Set": "Project2",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/IBIS/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/IBIS/Test/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			}
+		]
+	}
+}

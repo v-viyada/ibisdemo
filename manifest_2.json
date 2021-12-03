@@ -1,0 +1,74 @@
+{
+	"PrimaryDetails": {
+		"AssetTitle": "ADDS Tier Model and Deployment",
+		"AssetId": "112",
+		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=32&comments=false",
+		"AssetType": "IPPackage",
+		"Description": "This is the Ipkit for Design and Implementation for Active Directory (DIAD) offering, which helps in AD implementation on Azure",
+		"Products": [
+			"Azure",
+			"Active Directory"
+		],
+		"Scenarios": [
+			"Identity Modernization"
+		],
+		"Tags": [
+			"Active Directory",
+			"DIAD",
+			"Active Directory",
+			"Identity"
+		],
+		"AssetVersion": "1",
+		"AssetContributors": [
+			"v-AndreaPiazza",
+			"v-RalfWinterer"
+		],
+		"AssetOwner": [
+			"v-MukundBilurkar"
+		],
+		"RegisteredBy": "v-MukundBilurkar",
+		"RegisteredDate": "10-01-2021",
+		"Status": "Active"
+	},
+	"IPDetails": {
+		"DeliveryProductID": "P-MAD-M365",
+		"DomainServiceline": "ML",
+		"IPPublishState": "Published",
+		"Enablers": [
+			{
+				"Set": "Project1",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/Dev/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/Testing/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			},
+			{
+				"Set": "Project2",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/Prod/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/Test/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					1234,
+					1234
+				]
+			}
+		]
+	}
+}

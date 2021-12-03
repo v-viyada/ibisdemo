@@ -1,0 +1,76 @@
+{
+	"PrimaryDetails": {
+		"AssetTitle": "Active Directory Hardening",
+		"AssetId": "110",
+		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=33&comments=false",
+		"AssetType": "IPPackage",
+		"Description": "This IPKit contains the delivery resources for the Active Directory Hardening (ADH) offering",
+		"Products": [
+			"Active Directory",
+			"Azure"
+		],
+		"Scenarios": [
+			"Active Directory",
+			"Active Directory",
+			"Identity",
+			"ADH"
+		],
+		"Tags": [
+			"Connects",
+			"Career",
+			"Agile"
+		],
+		"AssetVersion": "1",
+		"AssetContributors": [
+			"v-RalfWinterer",
+			"v-SophiaPandey"
+		],
+		"AssetOwner": [
+			"v-MukundBilurkar"
+		],
+		"RegisteredBy": "v-MukundBilurkar",
+		"RegisteredDate": "09-29-2021",
+		"Status": "Active"
+	},
+	"IPDetails": {
+		"DeliveryProductID": "P-MAD-M365",
+		"DomainServiceline": "ML",
+		"IPPublishState": "Deprecated",
+		"Enablers": [
+			{
+				"Set": "Project1",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/Dev/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/Prod/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					5674,
+					2345
+				]
+			},
+			{
+				"Set": "Project2",
+				"WorkItemsQuery": [
+					{
+						"Url": "https://dev.azure.com/IBIS/_queries"
+					},
+					{
+						"Url": "https://dev.azure.com/_queries"
+					}
+				],
+				"Repo": [],
+				"Wiki": [],
+				"AssociatedComponents": [
+					5674,
+					2345
+				]
+			}
+		]
+	}
+}

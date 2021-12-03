@@ -1,0 +1,71 @@
+{
+	"PrimaryDetails": {
+		"AssetTitle": "Digital Strategy for Souring Suite (Source to Contract)",
+		"AssetId": "122",
+		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=48&comments=false",
+		"AssetType": "IPPackage",
+		"Description": "Digital Strategy for Sourcing and Procurement presented to leadership of Equinor including business case, user journey, personas and SAP Surround architecture",
+		"Products": [
+			"Microsoft"
+		],
+		"Scenarios": [
+			"App"
+		],
+		"Tags": [
+			"deo"
+		],
+		"AssetVersion": "3",
+		"AssetContributors": [
+		
+			"v-Anja"
+		],
+		"AssetOwner": [
+			"Arno",
+			
+		],
+		"RegisteredBy": "Arno",
+		"RegisteredDate": "11-17-2021",
+		"Status": "Active"
+	},
+	"IPDetails": {
+		"DeliveryProductID": "P-MAD-M36",
+		"DomainServiceline": "ML",
+		"IPPublishState": "Deprecated",
+		"Enablers": [
+			{
+				"Set": "Project2",
+				"WorkItemsQuery": [
+					{
+						"Url": "MyQueryLink2"
+					},
+					{
+						"Url": "MyQueryLink3"
+					}
+				],
+				"Repo": ["Repo"],
+				"Wiki": ["wiki"],
+				"AssociatedComponents": [
+					12345,
+					12345
+				]
+			},
+			{
+				"Set": "Project5",
+				"WorkItemsQuery": [
+					{
+						"Url": "MyQueryLink5"
+					},
+					{
+						"Url": "MyQueryLink5"
+					}
+				],
+				"Repo": ["Repo2"],
+				"Wiki": ["repo2"],
+				"AssociatedComponents": [
+					123456,
+					1234567
+				]
+			}
+		]
+	}
+}
