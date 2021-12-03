@@ -1,0 +1,86 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "AVS - Design Workshop",
+    "AssetId": "6",
+    "AssetURL": "url2232Correctedmorecorrecteddoublechange",
+    "AssetType": "IPComponent",
+    "Description": "A guided workshop to explore important definitions required to provide an AVS design",
+    "Products": [
+      "Azure",
+      "Azure Compute"
+    ],
+    "Scenarios": [
+      "Azure Migration",
+      "Cloud Foundation"
+    ],
+    "Tags": [
+      "Azure",
+      "Cloudmo",
+      "ACF",
+      "AVS"
+    ],
+    "AssetVersion": "0",
+    "AssetContributors": [
+      "v-viyada@microsoft.com",
+      "satyasri@microsoft.com"
+    ],
+    "AssetOwner": [
+      "v-viyada@microsoft.com",
+      "satyasri@microsoft.com"
+    ],
+    "RegisteredBy": "v-viyada@microsoft.com",
+    "RegisteredDate": "11-24-2021",
+    "Status": "Active"
+  },
+  "IPDetails": {
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": "ML1235",
+    "IPPublishState": "Published"
+    ,
+    "Enablers": [
+
+      {
+
+        "Set": "",
+
+        "WorkItemsQuery": [
+
+          { "Url": "MyQueryLink1" },
+
+          { "Url": "MyQueryLink2" }
+
+        ],
+
+        "Repo": [],
+
+        "Wiki": [],
+        "AssociatedComponents": [
+          1234,
+          1234
+        ]
+
+      },
+
+      {
+
+        "Set": "",
+
+        "WorkItemsQuery": [
+
+          { "Url": "MyQueryLink1" },
+
+          { "Url": "MyQueryLink2" }
+
+        ],
+
+        "Repo": [],
+
+        "Wiki": [],
+        "AssociatedComponents": [
+        ]
+
+      }
+
+    ]
+  }
+}
