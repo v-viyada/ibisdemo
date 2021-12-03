@@ -1,6 +1,7 @@
 {
 	"PrimaryDetails": {
 		"AssetTitle": "New Asset IBIS API",
+		AssetId = "548"
 		"AssetURL": "https://localhost/Assets?q=32&comments=false",
 		"AssetType": "IPPackage",
 		"Description": "This is the Ipkit for Design and Implementation for Active Directory (DIAD) offering, which helps in AD implementation on Azure something",
