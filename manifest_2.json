@@ -1,7 +1,7 @@
 {
 	"PrimaryDetails": {
 		"AssetTitle": "ADDS Tier Model and Deployment",
-		"AssetURL": "https://chrysalis-innersource.azurewebsites.net/Assets?q=32&comments=false",
+		"AssetURL": "https://localhost/Assets?q=32&comments=false",
 		"AssetType": "IPPackage",
 		"Description": "This is the Ipkit for Design and Implementation for Active Directory (DIAD) offering, which helps in AD implementation on Azure",
 		"Products": [
@@ -19,13 +19,13 @@
 		],
 		"AssetVersion": "1",
 		"AssetContributors": [
-			"v-AndreaPiazza",
-			"v-RalfWinterer"
+			"v-viyada",
+			"v-harishinde"
 		],
 		"AssetOwner": [
-			"v-MukundBilurkar"
+			"v-viyada"
 		],
-		"RegisteredBy": "v-MukundBilurkar",
+		"RegisteredBy": "v-viyada",
 		"RegisteredDate": "10-01-2021",
 		"Status": "Active"
 	},
