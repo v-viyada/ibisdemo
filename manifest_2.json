@@ -1,6 +1,6 @@
 {
 	"PrimaryDetails": {
-		"AssetTitle": "ADDS Tier Model and Deployment Testing IBIS",
+		"AssetTitle": "ADDS Tier Model and Deployment Testing IBIS viyada",
 		"AssetURL": "https://localhost/Assets?q=32&comments=false",
 		"AssetType": "IPPackage",
 		"Description": "This is the Ipkit for Design and Implementation for Active Directory (DIAD) offering, which helps in AD implementation on Azure",
