@@ -1,7 +1,6 @@
 {
   "PrimaryDetails": {
     "AssetTitle": "Demo Test Design Workshop",
-    "AssetId": "60055",
     "AssetURL": "http://localhost:3000/assets",
     "AssetType": "IPComponent",
     "Description": "A guided workshop to explore important definitions required to provide an AVS design",
