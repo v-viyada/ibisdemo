@@ -1,0 +1,85 @@
+{
+    "PrimaryDetails": {
+      "AssetTitle": "GitURL1 Test Design Workshop",
+      "AssetURL": "http://localhost:3000/assets",
+      "AssetType": "IPComponent",
+      "Description": "A guided workshop to explore important definitions required to provide an AVS design",
+      "Products": [
+        "Azure",
+        "Azure Compute"
+      ],
+      "Scenarios": [
+        "Azure Migration",
+        "Cloud Foundation"
+      ],
+      "Tags": [
+        "Azure",
+        "Cloudmo",
+        "ACF",
+        "AVS"
+      ],
+      "AssetVersion": "0",
+      "AssetContributors": [
+        "v-viyada",
+        "satyasri"
+      ],
+      "AssetOwner": [
+        "v-viyada",
+        "satyasri"
+      ],
+      "RegisteredBy": "v-viyada",
+      "RegisteredDate": "11-24-2021",
+      "Status": "Active"
+    },
+    "IPDetails": {
+      "DeliveryProductID": "P-MAD-M365",
+      "DomainServiceline": "ML1235",
+      "IPPublishState": "Published"
+      ,
+      "Enablers": [
+  
+        {
+  
+          "Set": "",
+  
+          "WorkItemsQuery": [
+  
+            { "Url": "MyQueryLink1" },
+  
+            { "Url": "MyQueryLink2" }
+  
+          ],
+  
+          "Repo": [],
+  
+          "Wiki": [],
+          "AssociatedComponents": [
+            1234,
+            1234
+          ]
+  
+        },
+  
+        {
+  
+          "Set": "",
+  
+          "WorkItemsQuery": [
+  
+            { "Url": "MyQueryLink1" },
+  
+            { "Url": "MyQueryLink2" }
+  
+          ],
+  
+          "Repo": [],
+  
+          "Wiki": [],
+          "AssociatedComponents": [
+          ]
+  
+        }
+  
+      ]
+    }
+  }
