@@ -1,0 +1,73 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "Ip Component Demo Sprint 3",
+    "AssetURL": "http://localhost:3000/assets",
+    "AssetType": "IPComponent",
+    "Description": "A guided workshop to explore important definitions required to provide an AVS design",
+    "Products": [
+      "Azure",
+      "Azure Compute"
+    ],
+    "Scenarios": [
+      "Azure Migration",
+      "Cloud Foundation"
+    ],
+    "Tags": [
+      "Azure",
+      "Cloudmo",
+      "ACF",
+      "AVS"
+    ],
+    "AssetVersion": "0",
+    "AssetContributors": [
+      "v-viyada",
+      "satyasri"
+    ],
+    "AssetOwner": [
+      "v-viyada",
+      "satyasri"
+    ],
+    "RegisteredBy": "v-viyada",
+    "RegisteredDate": "11-24-2021",
+    "Status": "Active",
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": "ML1235"
+  },
+  "IPDetails": {
+    "AssetId": "123",
+    "AssetVersion": "1.0",
+    "AssetType": "IPComponent",
+    "IPPublishState": "Draft",
+    "IsExported": false,
+    "ExportedDate": "YYYY/MM/DD",
+    "Enablers": [
+      {
+        "Set": "LED",
+        "WorkItemsQuery": [
+          {
+            "Name": null,
+            "Url": "https://dev.azure.com/Bootstrap-Test/BA-CEFO-LED-Bootstrap-GoldenCopy/_queries/query/0ada1170-cf7d-4f4e-9f83-7028dca0013e/"
+          }
+        ],
+        "Repo": [],
+        "Wiki": [],
+        "AssociatedComponents": []
+      },
+      {
+        "Set": "MW",
+        "WorkItemsQuery": [
+          {
+            "Name": null,
+            "Url": "https://dev.azure.com/Bootstrap-Test/MW-Bootstrap-Punam/_queries/query/8c3b2af1-553b-4a3f-a4c5-65351977cc77/"
+          }
+        ],
+        "AssociatedComponents": [
+          {
+            "AssetId": "124",
+            "Version": "1.0"
+          }
+        ]
+      }
+    ]
+  }
+}
