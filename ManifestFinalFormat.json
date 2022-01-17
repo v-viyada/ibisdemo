@@ -34,12 +34,12 @@
     "DomainServiceline": "ML1235"
   },
   "IPDetails": {
-    "AssetId": "123",             //Int
-    "AssetVersion": "1.0",        //Decimal
+    "AssetId": "123",
+    "AssetVersion": "1.0",
     "AssetType":"IPComponent",
     "IPPublishState": "Draft",
-    "IsExported": false,          //Not required from UI 
-    "ExportedDate": "YYYY/MM/DD", //Not required from UI
+    "IsExported": false,
+    "ExportedDate": "YYYY/MM/DD",
     "Enablers": [
       {
         "Set": "Project1",
