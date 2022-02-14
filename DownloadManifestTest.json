@@ -34,7 +34,6 @@
     "DomainServiceline": "ML1235"
   },
   "IPDetails": {
-    "AssetVersion": "1.0",
     "AssetType":"IPComponent",
     "IPPublishState": "Draft",
     "IsExported": false,
