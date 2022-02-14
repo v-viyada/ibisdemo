@@ -1,0 +1,83 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "Iot Project Package",
+    "AssetURL": "http://localhost:3000/assets",
+    "AssetType": "IPComponent",
+    "Description": "A guided workshop to explore important definitions required to provide an AVS design",
+    "Products": [
+      "Azure",
+      "Azure Compute"
+    ],
+    "Scenarios": [
+      "Azure Migration",
+      "Cloud Foundation"
+    ],
+    "Tags": [
+      "Azure",
+      "Cloudmo",
+      "ACF",
+      "AVS"
+    ],
+    "AssetVersion": "0",
+    "AssetContributors": [
+      "v-viyada",
+      "satyasri"
+    ],
+    "AssetOwner": [
+      "v-viyada",
+      "satyasri"
+    ],
+    "RegisteredBy": "v-viyada",
+    "RegisteredDate": "11-24-2021",
+    "Status": "Active",
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": "ML1235"
+  },
+  "IPDetails": {
+    "AssetVersion": "1.0",
+    "AssetType":"IPComponent",
+    "IPPublishState": "Draft",
+    "IsExported": false,
+    "ExportedDate": "YYYY/MM/DD",
+    "Enablers": [
+      {
+        "Set": "Project1",
+        "WorkItemsQuery": [
+          {
+            "Name":"",
+            "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+          },
+          {
+            "Name":"",
+            "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+          }
+        ],
+        "AssociatedComponents": [
+          {
+            "AssetId": "124",
+            "Version": "1.0"
+          }
+        ]
+      },
+      {
+        "Set": "Project2",
+        "WorkItemsQuery": [
+          {
+            "Name":"",
+            "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+          },
+          {
+            "Name":"",
+            "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+          }
+        ],
+        "AssociatedComponents": [
+          {
+            "AssetId": "124",
+            "Version": "1.0"
+          }
+        ]
+      }
+    ]
+  }
+}
