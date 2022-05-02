@@ -1,0 +1,92 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "Iot Project Package",
+    "AssetURL": "http://localhost:3000/assets",
+    "AssetType": "IP Component",
+    "Description": "A guided workshop to explore important definitions required to provide an AVS design",
+    "Products": [
+      "Azure",
+      "Azure Compute"
+    ],
+    "Scenarios": [
+      "Azure Migration",
+      "Cloud Foundation"
+    ],
+    "Tags": [
+      "Azure",
+      "Cloudmo",
+      "ACF",
+      "AVS"
+    ],
+    "AssetVersion": "My Asset Version V2",
+    "AssetContributors": [
+      "v-viyada"
+    ],
+    "AssetOwner": [
+      "v-viyada"
+    ],
+    "RegisteredBy": "v-viyada",
+    "RegisteredDate": "11-24-2021",
+    "Status": "InDevelopment",
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": "ML1235"
+  },
+  "IPDetails": {
+    "DisplayVersion": "D1",
+    "WorkItems": [
+      {
+        "Name": "Initial Analysis",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      },
+      {
+        "Name": "Proof of Concept",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      }
+    ],
+    "Repository": [
+      {
+        "Name": "Code Samples",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/repo/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      },
+      {
+        "Name": "Integration Samples",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      }
+    ],
+    "Wiki": [
+      {
+        "Name": "Technical Documentation",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      },
+      {
+        "Name": "Business Usecases",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      }
+    ],
+    "Pipelines": [
+      {
+        "Name": "Build Pipeline",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      },
+      {
+        "Name": "Release Pipeline",
+        "SourceType": "ADO",
+        "Url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/01a0eb68-d1ee-4d31-89f7-0bf9ad808480/"
+      }
+    ],
+    "AssociatedComponents": [
+      {
+        "InnerSourceId": "ec654311-e343-4219-a211-0f33243ef29a",
+        "BuildNumber": "2203121",
+        "DisplayVersion": "D1"
+      }
+    ]
+  }
+}
